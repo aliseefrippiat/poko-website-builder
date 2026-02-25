@@ -19,7 +19,7 @@ vars: {}
 dataList: []
 ---
 
-## **Arts EnChantés ASBL**
+# **Arts EnChantés ASBL**
 
 Avenue Jean Van Horenbeeck 260, 1160 Bruxelles (Auderghem)
 Tel : 0493/10.07.11
