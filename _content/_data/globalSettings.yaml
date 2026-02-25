@@ -1,0 +1,11 @@
+siteName: Arts EnChantés asbl
+productionUrl: https://www.artsenchantes.be
+logo: ''
+htmlHead: ''
+cssHead: ''
+languages:
+  - code: fr
+    status: published
+    keepUrlPrefix: false
+collections:
+  - events
