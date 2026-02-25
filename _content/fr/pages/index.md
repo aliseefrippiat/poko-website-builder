@@ -19,8 +19,6 @@ vars: null
 dataList: []
 ---
 
-{% image src="/_images/rideaux2.webp", width="500" %}
-
 Située à Bruxelles, l'association Arts EnChantés soutient activement la promotion et l'apprentissage de l'art, en favorisant notamment des interactions entre les différentes disciplines artistiques. L'association organise, entre autres, des stages pluri-artistiques pour enfants, des spectacles et des cours de musique.
 
     - Les stages proposés sont, pour les enfants, de riches voyages à la fois ludiques et instructifs leur permettant de développer leurs talents artistiques à travers un conte. Les étapes du voyage sont rythmées par des activités musicales (chansons, jeux de rythmes et de sons pour créer l'ambiance sonore et musicale du conte) et artisanales (coutures, ombres chinoises, bricolages divers,...).
