@@ -9,7 +9,7 @@ eleventyNavigation: null
 metadata: null
 preview:
   title: Concert 1
-  description: Harpes en voyage
+  description: Concert 1
   image:
     src: /_images/14.webp
     alt: ''
@@ -26,7 +26,7 @@ vars: null
 dataList: []
 ---
 
-Harpes en voyage
+Concert 1
 
 {% image src="/_images/14.webp" %}
 
