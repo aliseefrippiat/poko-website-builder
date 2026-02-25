@@ -23,7 +23,7 @@ dataList: []
 
 {% grid  %}
 {% gridItem %}
-{% image src="/_images/1.webp" %}
+{% image src="/_images/1.webp", aspectRatio="1" %}
 
 {% link url="cours-harpe-piano", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
