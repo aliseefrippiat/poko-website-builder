@@ -19,7 +19,7 @@ vars: null
 dataList: []
 ---
 
-{% image src="/_images/rideaux2.webp", width="800" %}
+{% image src="/_images/rideaux2.webp", width="500" %}
 
 Située à Bruxelles, l'association Arts EnChantés soutient activement la promotion et l'apprentissage de l'art, en favorisant notamment des interactions entre les différentes disciplines artistiques. L'association organise, entre autres, des stages pluri-artistiques pour enfants, des spectacles et des cours de musique.
 
