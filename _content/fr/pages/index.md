@@ -48,5 +48,3 @@ Située à Bruxelles, l'association Arts EnChantés soutient activement la promo
 - L'asbl propose des cours individuels de harpe et de piano ainsi qu'une chorale d'enfants.
 
 L'asbl a été fondée par Alisée Frippiat (harpiste), Christian Chibambo (conteur) et Pauline Bossuroy (musico-thérapeute).
-
-{% icon "simple:graphite" %}
