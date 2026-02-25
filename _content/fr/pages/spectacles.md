@@ -18,3 +18,9 @@ generatePage: ''
 vars: null
 dataList: []
 ---
+
+{% sectionCollection %}
+
+{% collection collection="events", sort="asc", sortBy="date" %}{% endcollection %}
+
+{% endsectionCollection %}
