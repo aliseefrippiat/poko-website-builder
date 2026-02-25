@@ -47,4 +47,6 @@ Située à Bruxelles, l'association Arts EnChantés soutient activement la promo
 - Les spectacles, notamment des concerts-contés, sont portés par la volonté de réunir différentes pratiques artistiques. Lorsque plusieurs arts se rencontrent dans un spectacle commun, chaque art vient renforcer les émotions procurées par un autre art car tous partagent originellement le même but bienfaisant, c'est-à-dire soigner, éclairer, cultiver, nourrir, fortifier, apaiser, réjouir l'âme, comme le font les attrapes-rêves !
 - L'asbl propose des cours individuels de harpe et de piano ainsi qu'une chorale d'enfants.
 
-L'asbl a été fondée par Alisée Frippiat (harpiste), Christian Chibambo (conteur) et Pauline Bossuroy (musico-thérapeute).{% icon "simple:graphite" %}
+L'asbl a été fondée par Alisée Frippiat (harpiste), Christian Chibambo (conteur) et Pauline Bossuroy (musico-thérapeute).
+
+{% icon "simple:graphite" %}
