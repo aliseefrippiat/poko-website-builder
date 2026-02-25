@@ -28,7 +28,7 @@ dataList: []
 {% link url="cours-harpe-piano", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
 {% gridItem %}
-{% image src="/_images/rideaux2.webp", aspectRatio="1" %}
+{% image src="/_images/rideaux2.webp" %}
 
 {% link url="spectacles", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
