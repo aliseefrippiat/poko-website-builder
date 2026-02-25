@@ -4,7 +4,7 @@ lang: fr
 createdAt: 2026-02-25T11:10:00.000Z
 uuid: ad50c8a38722
 localizationKey: 889cd05eacda
-name: 'Cours : Harpe & Piano'
+name: Cours
 eleventyNavigation:
   title: ''
   parent: ''
