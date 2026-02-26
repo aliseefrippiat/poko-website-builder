@@ -19,7 +19,7 @@ vars: null
 dataList: []
 ---
 
-## Cours individuels
+## Cours HARPE et PIANO
 
 L'asbl Arts EnChantés propose des cours individuels de HARPE et de PIANO.
 
