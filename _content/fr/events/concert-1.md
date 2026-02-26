@@ -33,5 +33,3 @@ Concert 1
 jdjjd
 
 kdkjjd
-
-djjd
