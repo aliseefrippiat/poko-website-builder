@@ -19,8 +19,6 @@ vars: null
 dataList: []
 ---
 
-Logo
-
 {% image src="/_images/logo-2024.webp", aspectRatio="1", width="100" %}
 
 {% sectionGrid %}
