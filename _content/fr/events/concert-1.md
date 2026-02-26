@@ -28,7 +28,7 @@ dataList: []
 
 Concert 1
 
-{% image src="/_images/14.webp" %}
+{% image src="/_images/14.webp", aspectRatio="1" %}
 
 jdjjd
 
