@@ -24,7 +24,7 @@ dataList: []
 
 Concert 2
 
-{% image src="/_images/4.webp" %}
+{% image src="/_images/4.webp", aspectRatio="1" %}
 
 dkfhghs
 
