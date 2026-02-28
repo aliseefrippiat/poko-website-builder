@@ -26,18 +26,12 @@ dataList: []
 {% grid  %}
 {% gridItem %}
 {% image src="/_images/whatsapp-image-2026-02-28-at-16-15-32.webp" %}
-
-{% link url="cours-harpe-piano", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
 {% gridItem %}
 {% image src="/_images/whatsapp-image-2026-02-28-at-17-01-08.webp" %}
-
-{% link url="spectacles", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
 {% gridItem %}
 {% image src="/_images/whatsapp-image-2026-02-28-at-16-34-24.webp" %}
-
-{% link url="stages", text="", linkType="internal", collection="pages" %}
 {% endgridItem %}
 {% endgrid %}
 
