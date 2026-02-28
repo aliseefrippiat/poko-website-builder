@@ -19,7 +19,7 @@ vars: null
 dataList: []
 ---
 
-{% image src="/_images/logo-2024.webp", aspectRatio="1", width="100" %}
+{% image src="/_images/whatsapp-image-2020-06-11-at-18-16-01.webp" %}
 
 {% sectionGrid %}
 
